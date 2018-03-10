@@ -1,0 +1,52 @@
+h1 {
+  color: #33f60e;
+  text-align: center;
+  background-color: #f000ff;
+  padding: 10px;
+  font-family: sans-serif, Arial;
+  font-weight: lighter;
+}
+
+h4 {
+  color: brown;
+  text-align: center;
+  background-color: pink;
+  font-family: sans-serif, Arial;
+  padding: 10px;
+}
+
+h2 {
+  color: #2944ff;
+  text-align: center;
+}
+
+li {
+  font-size: 20px;
+}
+
+table {
+  text-align: center;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+div {
+  text-align: center;
+  font-size: 35px;
+  background-color: #f4fd28;
+  padding: 10px;
+}
+
+th {
+  border: 1px solid black;
+  background-color: #00ffc4;
+  padding: 5px;
+}
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.name {
+  color: black;
+}
